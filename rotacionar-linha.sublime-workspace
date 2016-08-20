@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"ty",
+				"type	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bo",
+				"bgcolor	Attr"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"L",
+				"left"
+			],
+			[
+				"doM",
+				"doMoveTop"
+			],
+			[
+				"me",
+				"meuCanvas1_1"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"bck",
+				"bckGndNone"
+			],
+			[
+				"bc",
+				"bckGndNone"
+			],
+			[
+				"meu",
+				"meuCanvas2_1"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"text-s",
+				"text-decoration-style"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"v",
+				"value	Attr"
+			],
+			[
+				"fonta",
+				"font-family"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cle",
+				"cleanOut"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cris/GitHub/rotacionar-linha"
+	],
+	"file_history":
+	[
+		"/Users/cris/Google Drive/Projetos/bestprecos.com/www/WebContent/index.html",
+		"/Users/cris/Google Drive/Projetos/bestprecos.com/www/WebContent/css/css.css",
+		"/Users/cris/GitHub/rotacionar-linha/src/rotacionar-linha.c",
+		"/Users/cris/Desktop/test-responsive-table.html",
+		"/Users/cris/_svn/repos/siamsw/SIAM-HTML/trunk/WebContent/siam-reservas/index.html",
+		"/Users/cris/_svn/repos/siamsw/SIAM-HTML/trunk/WebContent/siam-reservas/css/css.css",
+		"/Users/cris/_svn/repos/siamsw/siam-reservas/trunk/WebContent/home/index.jsp",
+		"/Users/cris/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page/index.html",
+		"/Users/cris/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/Users/cris/_svn/repos/svn-checkout.sh",
+		"/Users/cris/Desktop/Animação/index.html",
+		"/Users/cris/_svn/repos/siamsw/siamx/trunk/siamx.sh",
+		"/Users/cris/_svn/repos/siamsw/siam-reservas/trunk/siam-reservas.sh",
+		"/Users/cris/_svn/repos/siamsw/wssiam-war/trunk/WebContent/js/lib/DomUtils.js",
+		"/Users/cris/Desktop/_chat.txt",
+		"/Users/cris/Google Drive/Projetos/andres-stephanou.com/site/css/css.css",
+		"/Users/cris/Google Drive/Projetos/andres-stephanou.com/site/index.php.html",
+		"/Users/cris/_svn/repos/siamsw/wssiam-war/trunk/WebContent/js/leitora.js",
+		"/Users/cris/_svn/repos/siamsw/wssiam-war/trunk/WebContent/js/lib/FormValidation.js",
+		"/Users/cris/Google Drive/Projetos/superprecos.com.br/www/WebContent/js/js.js",
+		"/Users/cris/Sites/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/js/js.js",
+		"/Users/cris/Sites/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/index.php",
+		"/Users/cris/Google Drive/Projetos/andres-stephanou.com/site/default.php",
+		"/Users/cris/Google Drive/Projetos/Workana/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/CLIENTE.txt",
+		"/Users/cris/Google Drive/Projetos/master-mixer/web/new-track-upload.php",
+		"/Users/cris/Pictures/Fototeca.photoslibrary/Masters/2016/05/08/20160508-151038/IMG_1511.MOV",
+		"/Users/cris/Google Drive/Projetos/Workana/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/www/config.md",
+		"/Users/cris/Sites/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/css/css.css",
+		"/Users/cris/Sites/27-Abr-2016 - Rotina De Importacao Sefaz-Sp/upload.php",
+		"/Users/cris/Google Drive/Projetos/Workana/27-Abr-2016 - Rotina De Importação Sefaz-Sp/tmp/Desenvolvimento de Apps - Games Simples.txt",
+		"/Users/cris/Google Drive/Projetos/Workana/27-Abr-2016 - Rotina De Importação Sefaz-Sp/PRODUTO.txt",
+		"/Users/cris/Google Drive/Projetos/Workana/27-Abr-2016 - Rotina De Importação Sefaz-Sp/CLIENTE.txt",
+		"/Users/cris/_svn/repos/siamsw/wssiam-dao/trunk/src/main/java/br/ind/siam/model/entity/ChaveAcesso.java",
+		"/Users/cris/_svn/repos/siamsw/wssiam-war/trunk/WebContent/leitoras.jsp",
+		"/Users/cris/_svn/repos/siamsw/wssiam-dao/trunk/src/main/java/br/ind/siam/dao/DispositivoDao.java",
+		"/Users/cris/_svn/repos/siamsw/siamx/trunk/WebContent/auth.jsp",
+		"/Users/cris/_svn/repos/siamsw/siamx/trunk/WebContent/css/css.css",
+		"/Users/cris/_svn/repos/siamsw/wssiam-war/trunk/WebContent/css/css.css",
+		"/Users/cris/_svn/repos/siamsw/siamx/trunk/src/META-INF/app-config.properties",
+		"/Users/cris/_svn/repos/siamsw/todos/trunk/WebContent/todo.jsp",
+		"/Users/cris/_svn/repos/siamsw/PADROES/scripts/db/create-user.sh",
+		"/Users/cris/_svn/repos/siamsw/PADROES/scripts/db/create-db.sh",
+		"/Users/cris/Google Drive/Projetos/andres-stephanou.com/site/index (1).php",
+		"/Users/cris/Google Drive/Projetos/andres-stephanou.com/site/index.php",
+		"/Users/cris/Google Drive/Projetos/cviagens/2015/v0.3/web 0.3/css/fonts.css",
+		"/Users/cris/GitHub/htmls/index.html",
+		"/Users/cris/git/YUI-Compressor-Utils/YUI-Compressor-Utils.bat",
+		"/Users/cris/git/YUI-Compressor-Utils/YUI-Compressor-Utils.sh",
+		"/Users/cris/GitHub/Replacer/Replacer.sh",
+		"/Users/cris/GitHub/Replacer/out/Three.txt",
+		"/Users/cris/GitHub/Replacer/in/$ENTITY$.template.java",
+		"/Users/cris/GitHub/Replacer/in/Two.template.txt",
+		"/Users/cris/GitHub/Replacer/in/One.template.txt",
+		"/Users/cris/GitHub/Replacer/in/Three.template.txt",
+		"/Users/cris/GitHub/Replacer/in/_ENTIDADE-lower_.template.html",
+		"/Users/cris/GitHub/Replacer/in/_ENTIDADE_.template.java",
+		"/Users/cris/GitHub/Replacer/.gitignore",
+		"/Users/cris/GitHub/Replacer/in/_ENTIDADE-camel_.template.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/Replacer.sh",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/in/_ENTIDADE-camel_.template.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/in/Two.template.txt",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/in/One.template.txt",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/out/WSGet.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/out/x/y/z/Class.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/out/Class.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/in/X.java",
+		"/Users/cris/Google Drive/Projetos/SIAM/src/Replacer/in/WSGet.template.java",
+		"/Users/cris/GitHub/TicTacToeServer/www/f.classes.php",
+		"/Users/cris/GitHub/TicTacToeServer/www/f.php",
+		"/Users/cris/GitHub/TicTacToeServer/www/service.php",
+		"/Users/cris/GitHub/TicTacToeServer/db/db.sql",
+		"/Users/cris/GitHub/TicTacToeServer/www/.htaccess",
+		"/Users/cris/GitHub/TicTacToeServer/www/params.json",
+		"/Users/cris/GitHub/TicTacToeServer/www/index.html",
+		"/Users/cris/GitHub/TicTacToeServer/README.md",
+		"/Users/cris/Google Drive/Projetos/acasadojava/index.html",
+		"/Users/cris/Google Drive/Projetos/e-xtractor/in/in.txt",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/mailing/spam_lista_chris.sh",
+		"/Users/cris/Java/workspace/cviagens/WebContent/index.jsp",
+		"/Users/cris/Desktop/war-e-utils/wssiam-war/trunk/WebContent/leitora.jsp",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/mailing/spam_400.sh",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/mailing/spam_75-100.sh",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/mailing/spam.sh",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/mailing/m",
+		"/Users/cris/Java/workspace/cviagens/WebContent/solicitacao-orcamento.jsp",
+		"/Users/cris/Desktop/war-e-utils/wssiam-war/trunk/src/br/ind/siam/AppConfig.java",
+		"/Users/cris/Java/workspace/cviagens/WebContent/github/index.html",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/v1.0.0/cviagens/WebContent/css/css.css",
+		"/Users/cris/Google Drive/Projetos/cviagens/2016/v1.0.0/cviagens/WebContent/css/index.css",
+		"/Users/cris/Java/workspace/cviagens/WebContent/twitter/index.html",
+		"/Users/cris/Java/workspace/cviagens/WebContent/tools/index.html",
+		"/Users/cris/Java/workspace/cviagens/WebContent/tools/index.jsp",
+		"/Users/cris/Java/workspace/cviagens/WebContent/sitemap.xml",
+		"/Users/cris/Desktop/war-e-utils/wssiam-war/trunk/WebContent/js/js.js",
+		"/Users/cris/Google Drive/Projetos/master-mixer/web/contact.php",
+		"/Users/cris/Google Drive/Projetos/master-mixer/web/CLASSES/utils/EmailUtils.php",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/index.jsp",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/solicitacao-orcamento.jsp",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/css/solicitacao-orcamento.css",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/css/index.css",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/index.html",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/solicitacao-orcamento.html",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/css/css.css",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/search.html",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/css/search.css",
+		"/Users/cris/Google Drive/Projetos/cviagens/v0.6/css/b.css"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"--",
+			"\n}",
+			"			\n",
+			"\"></",
+			"id=\"wrapper\"",
+			" width=\"150\" height=\"150\"",
+			"bckGndYellow",
+			"canvas",
+			"clean",
+			"clean()",
+			"cleanBin",
+			"clean",
+			"deploy_h",
+			"deployWsS",
+			"nasceu",
+			"json",
+			"jason",
+			"addOnSubmit",
+			"defaultFormOnSubmit",
+			"fone",
+			"div",
+			"error",
+			"parse(",
+			"update(",
+			"update",
+			"update(",
+			"setFromResultSet",
+			"tictactoeserver.esy.es",
+			"//acasadojava",
+			"esy",
+			"tictactoeserver.esy.es",
+			"\\n",
+			"120) + 120",
+			",",
+			">,",
+			">",
+			" <",
+			",",
+			">",
+			" <",
+			"$(((RANDOM %= 60) + 60))",
+			"pass=",
+			"<",
+			">,",
+			">",
+			"<",
+			">,",
+			"<",
+			"'",
+			"\"",
+			"logo-font",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"- ",
+			" ",
+			"div",
+			"span",
+			"msg",
+			"www.acasadojava.com.br/tictactoe",
+			"//www.acasadojava",
+			"acasadojava.com.br/tictactoe",
+			"')\\nTOS+=('",
+			"\\n')\nTOS+=('",
+			"360) + 240",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"$(((RANDOM %= 60) + 60)) ; echo 1",
+			"pass=123&to=",
+			"",
+			"\\t<",
+			"",
+			">",
+			"\\t<",
+			"",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rotacionar-linha.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
