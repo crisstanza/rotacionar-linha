@@ -32,7 +32,7 @@ git push origin --delete gh-pages
 
 
 
-### Sync gh-pages:
+### Sync gh-pages (DON'T DO THAT if you're using /docs folder for your gh-pages):
 
 ```
 git push --force origin master:gh-pages
