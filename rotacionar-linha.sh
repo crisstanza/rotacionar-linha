@@ -11,7 +11,7 @@
 THIS_FILE_NAME=$(basename $0)
 
 SRC_NAME=rotacionar-linha.c
-EXE_NAME=RotacionarLinha.exe
+EXE_NAME=${SRC_NAME}.exe
 
 function clean {
 	[ -d bin ] && rm -R bin
@@ -54,6 +54,14 @@ if [ -z "$1" ] ; then
 	echo
 else
 	while test ${#} -gt 0 ; do
-		$1 ; shift
+		if [ "$1" == "-s" ] ; then
+			shift
+			THIS_FILE_NAME=$1
+			SRC_NAME=$1.c
+			EXE_NAME=${SRC_NAME}.exe
+			shift
+		else
+			$1 ; shift
+		fi
 	done
 fi

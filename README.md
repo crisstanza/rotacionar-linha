@@ -1,6 +1,6 @@
 # rotacionar-linha
 
-Exercício de programação em C.
+Exercício de programa&ccedil;&atilde;o em C.
 
 
 
@@ -9,6 +9,10 @@ Exercício de programação em C.
 Comandos dispon&iacute;veis:
 
    ./rotacionar-linha.sh clean | build | run
+
+Exemplo de uso da fun&ccedil;&atilde;o delay:
+
+  ./rotacionar-linha.sh clean -s exemplo-delay build run
 
 
 
