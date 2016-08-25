@@ -50,7 +50,7 @@ if [ -z "$1" ] ; then
 	echo "------"
 	echo
 	echo "Available commands:"
-	echo "              ./${THIS_FILE_NAME} clean | build | run"
+	echo "              ./${THIS_FILE_NAME} -s <SOURCE> | clean | build | run"
 	echo
 else
 	while test ${#} -gt 0 ; do
